@@ -51,6 +51,7 @@ export default function Home() {
                     <Ionicons name="card-outline" size={24} color="white" />
                     <Text style={styles.cardTextScroll}>Criar um cartão</Text>
                 </View>
+                
                 <View style={styles.cardScrollView}>
                     <FontAwesome6 name="money-bill-transfer" size={24} color="white" />
                     <Text style={styles.cardTextScroll}>Pedir um empréstimo</Text>
