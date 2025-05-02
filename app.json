@@ -1,0 +1,28 @@
+{
+  "expo": {
+    "name": "nubank",
+    "slug": "nubank",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/nubankbranco.png",
+    "userInterfaceStyle": "light",
+    "newArchEnabled": true,
+    "splash": {
+      "image": "./assets/nubankbranco.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#820AD1"
+    },
+    "ios": {
+      "supportsTablet": true
+    },
+    "android": {
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/adaptive-icon.png",
+        "backgroundColor": "#820AD1"
+      }
+    },
+    "web": {
+      "favicon": "./assets/favicon.png"
+    }
+  }
+}
